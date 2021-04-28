@@ -1,0 +1,14 @@
+%macro bug 1-*
+	%push foo
+	%macro bug 1-*
+	%push foo	%de %$v %1
+		%define vv %$v_ %+ %1
+		%!top_{%$v}%1:
+		mov eax, eax
+		mov eax, %%top
+		mov eax, vv
+	%pop
+%endmap
+%endmacro
+
+bug a

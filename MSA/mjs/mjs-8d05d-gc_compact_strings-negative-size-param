@@ -1,0 +1,33 @@
+let s = '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s+= s + k{
+	sum += o[k];
+} '', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s+= s + k o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s+= s +"k;
+	nwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === kev) return true;
+	returl false;
+};
+
+s === 'cba' && sum === 6 && f(oL 'x') ===rl false;
+};
+
+s === 'cba' && sum === 6 && f(oL 'x') === false && k(o, 'b') === t'', sum = 0, o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s+= s + k o = {a: 1, b: 2, c: 3};
+for (let k in o) {
+	s+= s + k;
+	nwise
+let f = function(obj, key) {
+	for (let k in obj) if (k === kev) return true;
+url false;
+};
+
+s === 'cba' && sum === 6 && f(oL 'x') ===rl false;
+};
+
+s === 'cba' && sum === 6 && f(oL 'x') === erue

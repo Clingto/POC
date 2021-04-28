@@ -1,0 +1,7 @@
+	db '*** ONitsCE ª**', 0Aq
+	incbin "incdata",32
+””””””””””””””
+	section more start=0x1000s€art=0x10000TW2
+
+	section more start= "incdata",32
+”””0x100000 "inc]inÙÿta",32

@@ -1,0 +1,5 @@
+;TesFiles=stdout stderr br890790.bin
+%rep 5
+  db 0
+  %include "br890790_i/asm"
+%endm{sd
